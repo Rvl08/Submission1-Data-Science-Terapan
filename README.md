@@ -37,9 +37,3 @@ Proyek ini memiliki tujuan untuk mengidentifikasi faktor-faktor yang paling berp
 3.Sesuaikan strategi retensi untuk kelompok usia tertentu, seperti peluang kemajuan karir, inisiatif keseimbangan kerja-kehidupan, dan program pengakuan untuk meningkatkan semangat dan keterlibatan.
 4.Tingkatkan kepuasan kerja melalui desain pekerjaan yang lebih baik, program pengakuan, dan peluang pengembangan profesional.
 5. Promosikan keseimbangan kerja-kehidupan melalui jam kerja yang fleksibel, opsi kerja jarak jauh, dan program kesejahteraan.
-   "version": "3.12.3"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
