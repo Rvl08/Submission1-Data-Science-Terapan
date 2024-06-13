@@ -32,8 +32,8 @@ https://public.tableau.com/views/Submission_17179535733160/Dashboard1?:language=
 Proyek ini memiliki tujuan untuk mengidentifikasi faktor-faktor yang paling berpengaruh terhadap attrition karyawan di perusahaan Jaya Jaya Maju. Analisis korelasi digunakan untuk melihat korelasi antar variabel, terutama antara variabel Attrition dengan variabel lain, sehingga diperoleh kesimpulan variabel yang paling berpengaruh terhadap Attrition. Penggunaan model machine learning juga digunakan untuk melakukan prediksi terhadap data baru sesuai dengan variabel-variabel penting yang sudah ditentukan melalui analisis korelasi.
 
 ### Rekomendasi Action Item
-1.Terapkan kebijakan yang mempromosikan kesetaraan gender.
-2.Terapkan program mentorship dan rencana pengembangan karir untuk karyawan muda guna meningkatkan keterlibatan dan retensi.
-3.Sesuaikan strategi retensi untuk kelompok usia tertentu, seperti peluang kemajuan karir, inisiatif keseimbangan kerja-kehidupan, dan program pengakuan untuk meningkatkan semangat dan keterlibatan.
-4.Tingkatkan kepuasan kerja melalui desain pekerjaan yang lebih baik, program pengakuan, dan peluang pengembangan profesional.
+1. Terapkan kebijakan yang mempromosikan kesetaraan gender.
+2. Terapkan program mentorship dan rencana pengembangan karir untuk karyawan muda guna meningkatkan keterlibatan dan retensi.
+3. Sesuaikan strategi retensi untuk kelompok usia tertentu, seperti peluang kemajuan karir, inisiatif keseimbangan kerja-kehidupan, dan program pengakuan untuk meningkatkan semangat dan keterlibatan.
+4. Tingkatkan kepuasan kerja melalui desain pekerjaan yang lebih baik, program pengakuan, dan peluang pengembangan profesional.
 5. Promosikan keseimbangan kerja-kehidupan melalui jam kerja yang fleksibel, opsi kerja jarak jauh, dan program kesejahteraan.
