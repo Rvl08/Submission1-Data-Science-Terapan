@@ -16,7 +16,7 @@ Sumber data: [employee_data.csv](https://github.com/dicodingacademy/dicoding_dat
 Setup environment:
 1. Install Anaconda atau Miniconda di komputer
 2. Buka Terminal
-3. Buat environment baru dengan perintah `conda create -n env python=3.9
+3. Buat environment baru dengan perintah `conda create -n env python=3.9`
 4. Aktifkan environment yang sudah dibuat menggunakan perintah `conda activate env`
 5. Install library yang dibutuhkan `conda install pandas scikit-learn seaborn matplotlib jupyter`
 6. `pip install joblib`
